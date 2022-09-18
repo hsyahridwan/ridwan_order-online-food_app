@@ -5,3 +5,7 @@ aplikasi ini berisikan langkah langkah yang harus kita lakukan untuk memesan mak
 1. README.md
 2. flowchart.drawio
 3. pseudecode.txt
+4. algoritma.txt
+
+dibuat oleh :
+- Ridwan Hermawan Syah - BE2638440
