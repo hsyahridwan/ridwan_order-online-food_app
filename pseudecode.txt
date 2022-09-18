@@ -1,0 +1,4 @@
+1. buka aplikasi pesan makanan
+2. masuk ke menu pesan makanan
+3. pilih makanan
+4. checkout makanan
