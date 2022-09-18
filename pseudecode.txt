@@ -2,3 +2,17 @@
 2. masuk ke menu pesan makanan
 3. pilih makanan
 4. checkout makanan
+5. if sesuai
+	do 
+	pilih metode pembayaran
+	
+	else
+	kembali ke pilih makanan
+
+6. if metode pembayaran = cash
+	do 
+	tambahkan alamat
+	
+	else
+	lakukan transfer pembayaran
+7. klik pesan 
